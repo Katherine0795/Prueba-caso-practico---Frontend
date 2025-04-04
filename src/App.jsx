@@ -4,6 +4,7 @@ import PageSolicitudesList from "./components/PageSolicitudesList";
 import PageNuevaSolicitud from "./components/PageNuevaSolicitud";
 import './index.css';
 
+//funcion principal
 function App() {
   return (
     <Router>
